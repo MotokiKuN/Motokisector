@@ -1,0 +1,8 @@
+{
+	"id":"motokisector", # internal id
+	"name":"MotokiSector", # displayed to the player
+	"author":"MotokiKuN",
+	"version":"0.0.2",
+	"description":"Personal portraits for Starsector",
+	"gameVersion":"0.95.1a",
+}
