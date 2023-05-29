@@ -1,16 +1,14 @@
 {
 	"portraits":{
 		"standard_male":[
-			"graphics/portraits/motoki_1.png",
-			"graphics/portraits/motoki_2.png",
-			"graphics/portraits/motoki_3.png",
-			"graphics/portraits/motoki_4.png",
+			"graphics/portraits/motoki.png",
+			"graphics/portraits/stalin.png",
 		],
 		"standard_female":[
-			"graphics/portraits/yuuki_1.png",
-			"graphics/portraits/yuuki_2.png",
-			"graphics/portraits/yuuki_3.png",
-			"graphics/portraits/yuuki_4.png",
+			"graphics/portraits/yuuki.png",
+			"graphics/portraits/chris.png",
+			"graphics/portraits/miori.png",
+			"graphics/portraits/mafuyu.png",
 
 		],
 	},
