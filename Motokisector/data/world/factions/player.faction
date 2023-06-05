@@ -3,13 +3,17 @@
 		"standard_male":[
 			"graphics/portraits/motoki.png",
 			"graphics/portraits/stalin.png",
+			"graphics/portraits/tachibana.png",
+			"graphics/portraits/yuuta.png",
+			"graphics/portraits/yuuna.png",
 		],
 		"standard_female":[
 			"graphics/portraits/yuuki.png",
 			"graphics/portraits/chris.png",
 			"graphics/portraits/miori.png",
 			"graphics/portraits/mafuyu.png",
-
+			"graphics/portraits/senkouhanabi.png",
+			"graphics/portraits/airi.png",
 		],
 	},
 },
