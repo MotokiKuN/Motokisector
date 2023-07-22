@@ -1,8 +1,6 @@
 {
 	tips:[
 			{"freq":0, "tip":"You can change the frequency of tips by adding a json object instead of a string, like so. For example, this tip has a frequency of 0 and will never show up. The default freq value is 1."},
-			"[Motokisector] Hey Nia, do you have any job for me?",
-			"[Motokisector] Iced Latte with Royal M- I mean Royal Mi- R- Roya- Royal Milk.",
 			"[Motokisector] I take a look at my enormous Reaper and my troubles started melting away.",
 			"[Motokisector] You should try United Aurora Federation.",
 			"[Motokisector] Put Semibreve on a Kojin, it's fun.",
@@ -11,11 +9,12 @@
 			"Hololive ASMR - Mori Calliope Eat Horse D 2",
 			"[IRySector] Darkness will fade away, light will guide your way, Hope has descended and is coming for you.",
 			"[Motokisector] There is a fork of the Take No Prisoners mod which added extra interaction for female prisoners. You should go get one.",
-			"[Motokisector] Do lobsters have a nice ass?",
 			"[Motokisector] There's no torp like red torp, sends your thruster into shock.",
 			"[Motokisector] Won't you fly high, free bird, yeah. *intense guitar solo*",
 			"[Motokisector] Incest can be justified by a promise in their past lives.",
 			"[Motokisector] Total Luddite Death.",
 			"[Motokisector] Support Mayasura by donating essential items to Mairaath.",
+			"[Motokisector] I'm a vampire, can I suck you?",
+			"[Motokisector] It sucks at swimming - the Sacabambaspis.",
      ], 
 }
