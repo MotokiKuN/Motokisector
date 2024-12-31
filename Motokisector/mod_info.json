@@ -2,7 +2,7 @@
 	"id":"motokisector", # internal id
 	"name":"MotokiSector", # displayed to the player
 	"author":"MotokiKuN",
-	"version":"0.5.1",
+	"version":"0.5.2",
 	"description":"Personal portraits and tips for Starsector",
 	"gameVersion":"0.97a-RC11",
 }
